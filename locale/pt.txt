@@ -1,0 +1,33 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_717A5567_7E02_6E35_41CE_BDDF1020F704.source = https://www.facebook.com/econverte?mibextid=ZbWKwL
+LinkBehaviour_9F6644B8_8889_9E37_41D6_FC5E47E7C376.source = https://www.facebook.com/econverte?mibextid=ZbWKwL
+LinkBehaviour_9F6604B7_8889_9E3E_41D1_748B5BAE0BE2.source = https://www.instagram.com/econverte/
+LinkBehaviour_6E91ECE0_7E06_7E2C_41C3_3369280847A5.source = https://www.instagram.com/econverte/
+
+## Media
+
+### Audio
+audiores_71083AB6_7E02_DA17_41DB_CE46BEFDF6B0.mp3Url = media/audio_71BF1537_7E02_6E15_41B8_C7FB2FEB64E8_pt.mp3
+audiores_8AA4734C_878B_9E6B_41DC_6BB733E5D69C.mp3Url = media/audio_8BC7CA8D_878B_6EE5_41CD_731BD2089F9F_pt.mp3
+audiores_8F9A4727_8321_EF44_41C8_59CA0316AA3F.mp3Url = media/audio_8E067D86_8321_6344_41BC_AB6B8DC077C6_pt.mp3
+audiores_9257A447_878B_9E5E_41DB_E255AC44D63F.mp3Url = media/audio_93D7896B_8788_B656_41CB_448C52B3EB9E_pt.mp3
+
+### Title
+panorama_6E8F1EAB_6414_7E2C_41D3_12C6BC588657.label = e360Tour
+panorama_6E927D04_6414_A3E5_41AF_D2EB608EA1CC.label = e360Tour
+panorama_6E8FDDF0_6414_A23C_41BD_8EAFAF14D039.label = e360Tour
+panorama_690B64F3_6414_E23C_416F_319DEAD3BE5A.label = e360Tour
+panorama_6E8E3F10_6415_9FFC_41D1_18692103D1FB.label = e360Tour
+panorama_6E8E4071_6415_A23C_41D1_54A1EC42EFB4.label = e360Tour
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 360°
+
+### Title
+tour.name = Casa01_360
